@@ -1,0 +1,110 @@
+
+#wrapper{
+	background-color: #FFF;
+	width:1000px;
+	height:auto;
+	margin:0 auto;
+	box-shadow:4px 4px 16px #111;
+}
+
+#header{
+	height: 100px;
+	width: 100%;
+	
+}
+
+#logo{
+	height: 50px;
+	width: 59%;
+	float: left;
+	padding-left: 0px;
+}
+
+#titl{
+	height: 50px;
+	width: 50%;	
+}
+
+#address{
+	height: 100px;
+	width: 20%;
+	float: left;
+	border-right: 1px solid #000080;
+	margin-right: 3px;
+}
+
+#contact{
+	height: 100px;
+	width: 20%;
+	float: left;
+}
+
+#subject{
+	height: 40px;
+	width: 100%;
+	float: left;
+}
+
+#headers{
+	height: 30px;
+	width: 100%;
+	margin-bottom:2px;
+	padding-top:5px;
+	border-bottom:3px double #000080;
+	border-top:#000080 solid 1px;
+	clear:both;
+	text-align: center;	
+	background: #DDD;
+}
+
+#details{
+	background-color: #FFF;
+	height: auto;
+	width: 100%;
+	border-bottom-color: #09F;
+	float: left;
+	margin-bottom:5px;
+}
+
+#directorship{
+	height: 30px;
+	width: 100%;	
+}
+
+.beltonTable{
+		    border-right:#CCC solid 1px;
+		    border-left:#CCC solid 1px;
+		    border-bottom:#CCC solid 1px;
+			
+			}
+.beltonTable tr td{
+		  border-left:#FFF solid 1px;
+		  border-top:#FFF solid 1px;
+		  padding:7px;	 
+	  }
+.beltonTable tr:nth-child(even){
+background-color:#f5f5f5;
+}
+
+.bedzaTable{
+		    border-right:#CCC solid 1px;
+		    border-left:#CCC solid 1px;
+		    border-bottom:#CCC solid 1px;
+			
+			}
+.bedzaTable tr td{
+  border-left:#CCC solid 1px;
+  border-top:#CCC solid 1px;
+  padding:7px;	 
+}
+
+	  
+.bedzaTableHeadings{
+	background:#EAEAEA;
+}	  
+label{
+	font-weight: bold;	
+
+}
+
+

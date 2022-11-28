@@ -1,0 +1,120 @@
+#holder{
+	 background-image: radial-gradient(#ccc 5%, #09f 15%, #000080 60%);
+	height: 500px;
+	width: 100%;
+	margin-left: 3px;
+	opacity: 0.8;
+	
+}
+
+#ryt{
+	
+	width: 300px;
+	height: 300px;
+	float: left;
+	margin-left: 5%;
+	cursor: disabled;
+	opacity: 0.8;
+}
+
+
+#lft{
+	
+	width: 300px;
+	height: 300px;
+	margin-left: 73%;
+	opacity: 0.8;
+}
+
+#cr{
+	height: 250px;
+	width: 250px;
+	border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+	background: #fff;
+	}
+#cr:hover {
+      -webkit-transform: rotate(25deg); /* Safari and Chrome */
+    -moz-transform: rotate(25deg);   /* Firefox */
+    -ms-transform: rotate(25deg);   /* IE 9 */
+    -o-transform: rotate(25deg);   /* Opera */
+    transform: rotate(25deg);
+    box-shadow:4px 4px 16px #FF0000;
+}
+
+#st{
+	height: 250px;
+	width: 250px;
+	border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+	background: #fff;
+}
+#st:hover {
+      -webkit-transform: rotate(25deg); /* Safari and Chrome */
+    -moz-transform: rotate(25deg);   /* Firefox */
+    -ms-transform: rotate(25deg);   /* IE 9 */
+    -o-transform: rotate(25deg);   /* Opera */
+    transform: rotate(25deg);
+    box-shadow:4px 4px 16px #09F;
+}
+
+#crLbl{
+	background: #FFF;
+	width: 250px;
+	height: 30px;
+	border-radius: 5px;
+	text-align: center;
+	opacity: 0.9;
+
+}
+
+#rytLbl{
+	background: #FFF;
+	width: 250px;
+	height: 30px;
+	border-radius: 5px;
+	opacity: 0.9;
+}
+#finLbl{
+	background: #fff;
+	width: 90%;
+	height: 65px;
+	margin-left: 5%;
+	border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+	opacity: 0.6;
+}
+#crr{
+	height: 250px;
+	width: 250px;
+	border-radius: 50% 50%;
+	background: #fff;
+	}
+#crr:hover {
+      -webkit-transform: rotate(25deg); /* Safari and Chrome */
+    -moz-transform: rotate(25deg);   /* Firefox */
+    -ms-transform: rotate(25deg);   /* IE 9 */
+    -o-transform: rotate(25deg);   /* Opera */
+    transform: rotate(25deg);
+    box-shadow:4px 4px 16px #FF0000;
+}
+
+#stt{
+	height: 250px;
+	width: 250px;
+	border-radius: 50% 50%;
+	background: #fff;
+}
+#stt:hover {
+      -webkit-transform: rotate(25deg); /* Safari and Chrome */
+    -moz-transform: rotate(25deg);   /* Firefox */
+    -ms-transform: rotate(25deg);   /* IE 9 */
+    -o-transform: rotate(25deg);   /* Opera */
+    transform: rotate(25deg);
+    box-shadow:4px 4px 16px #09F;
+}
+#fin{
+	background: #FFF;
+	width: 90%;
+	height: 65px;
+	margin-left: 5%;
+	border-radius: 50% 50%;
+	opacity: 0.6;
+}

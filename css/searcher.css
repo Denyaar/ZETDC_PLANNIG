@@ -1,0 +1,13 @@
+
+.bedzaTable tr td{
+  border-left:#CCC solid 1px;
+  border-top:#CCC solid 1px;
+  padding:7px;	 
+}
+.bedzaTable tr:nth-child(even){
+background-color:#f5f5f5;
+}
+	  
+.bedzaTableHeadings{
+	background:#EAEAEA;
+}	
